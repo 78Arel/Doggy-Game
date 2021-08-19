@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameMusic
+  - Coin
+  - MysteryBox
+  - GameLoader
+  - Galleta
+  - PajaroCarpinteroLvl2_1_1
+  - CarroLvl_2_1_1
+  - BacheLvl2_1_2
+  - Tubo
+  - Circulo
+  - Sabor
+  - Cono
+  - Boton
+  - Mapa
+  - Meta
+  - BacheLvl3_2_3
+  - TuboEstatico
+  - TuboL
+  - TuboEn3
+  - TuboEnX
+  - TuboEstatico3
+  - TuboEstaticoL
+  - TuboEstaticoX
+  - FinalJuego
+  - JumpSound
+  - Pausa
+  - Tienda
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Obstacle
+  - Player
+  - Dialogue
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2041165617
+    locked: 0
+  - name: Objects
+    uniqueID: 852295495
+    locked: 0
+  - name: Player
+    uniqueID: 824238057
+    locked: 0
+  - name: UI
+    uniqueID: 3751920249
+    locked: 0
+  - name: Dialogue
+    uniqueID: 700780675
+    locked: 0
